@@ -1,4 +1,3 @@
-# voting_US_pivot_table
 # File 1: Pivot Table Exercise Instructions - 
 #In this exercise, we will explore some more complex skills to show the flexibility of Pivot Tables for data analysis using the US Voter data to answer some basic questions about the 2012 election.
 # File 2: Pivot Table Exercise Answers - 
